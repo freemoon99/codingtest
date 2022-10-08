@@ -7,7 +7,7 @@ console.log(nums);
 
 // 2번 문제
 var arr = [200, 100, 300];
-arr.splice(2, 0, 10000); 
+arr.splice(2, 0, 10000);
 console.log(arr);
 // splice(시작 인덱스 번호, 제거 할 인덱스 개수, 넣을 데이터)를 이용
 
